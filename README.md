@@ -64,7 +64,7 @@ dashboard-educacao/
 
 ## Visual do Dashboard
 
-![Dashboard-Educacional](Imagens/Dashboard M.png)
+![Dashboard-Educacional](Imagens/DashboardM.png)
 ---
 
 ## 🔍 Principais Insights
