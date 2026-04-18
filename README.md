@@ -60,13 +60,6 @@ dashboard-educacao/
  ┗ README.md
 ```
 
----
-
-## Visual do Dashboard
-
-![Dashboard-Educacional](Imagens/DashboardM.png)
----
-
 ## 🔍 Principais Insights
 
 * Cursos com maior taxa de evasão podem indicar falhas na grade curricular ou baixa aderência ao mercado, buscando verificar melhor com os parceiros maneiras de melhorar a comunicação e transparecer a cultura da instituição.
