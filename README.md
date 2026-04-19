@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto apresenta um dashboard interativo desenvolvido com o objetivo de analisar o comportamento acadêmico de alunos em uma instituição de ensino.
+Este projeto apresenta um dashboard interativo desenvolvido com o objetivo de analisar o comportamento acadêmico de alunos em uma instituição de ensino ficticia, utilizando dados também ficticios.
 
 A análise foca na identificação de padrões relacionados à evasão, retenção e conclusão dos cursos, permitindo uma visão estratégica sobre a jornada dos alunos.
 
