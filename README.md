@@ -50,29 +50,12 @@ Foi criado um dashboard no Power BI que permite:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-dashboard-educacao/
- ┣ dados/
- ┣ dashboard/
- ┣ imagens/
- ┗ README.md
-```
 
 ## 🔍 Principais Insights
 
 * Cursos com maior taxa de evasão podem indicar falhas na grade curricular ou baixa aderência ao mercado, buscando verificar melhor com os parceiros maneiras de melhorar a comunicação e transparecer a cultura da instituição.
 * A relação entre alunos ativos e evadidos evidencia possíveis problemas de retenção, sendo possível a verificção interna do que pode estar insatisfazendo os alunos durante o processo de estudos
 * A análise por curso permite priorizar ações estratégicas em áreas críticas, já que a partir da análise crítica do número de alunos evadidos, é possível estabelecer estratégias únicas para cada curso.
-
----
-
-## 🚀 Como Executar o Projeto
-
-1. Faça o download do arquivo `.pbix`
-2. Abra no Power BI Desktop
-3. Explore os filtros e páginas do dashboard
 
 ---
 
